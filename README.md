@@ -1,3 +1,4 @@
-# Basic Node and Express
+# Express and APIs hands on
 
-This is the boilerplate code for the Basic Node and Express Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/apis-and-microservices/basic-node-and-express/
+learning apis and using expressjs to handle server requests through apis and this repo will serve as my notebook until I feel confident.
+Following freecodecamp course on the same: https://github.com/freeCodeCamp/boilerplate-express/
